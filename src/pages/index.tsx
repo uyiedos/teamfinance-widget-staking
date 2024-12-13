@@ -17,12 +17,7 @@ export default function TestWidget() {
       },
       blockExplorerUrls: ['https://scan.pulsechain.com/'],
       type: 'mainnet',
-      contractAddress: '0xcA11bde05977b3631167028862bE2a173976CA11',
-      poolId: 0,
-    },
-      blockExplorerUrls: ['https://scan.pulsechain.com/'],
-      type: 'mainnet',
-      contractAddress: '0xc54e52000650fba208bde3483dba6895571E65e4',
+      contractAddress: '0xd6A07b8065f9e8386A9a5bBA6A754a10A9CD1074',
       poolId: 0,
     },
   ]
