@@ -6,7 +6,7 @@ import { Widget } from '../components/widget'
 export default function TestWidget() {
   const supportedChains: any[] = [
     {
-      name: 'PulseChain',
+      name: 'pulseChain',
       chainId: '369',
       icon: 'https://assets.coingecko.com/coins/images/25666/standard/PLS-LogoTransparent_1.png?1712339803',
       rpcUrls: ['https://rpc.pulsechain.com'],
