@@ -231,8 +231,8 @@ export const pulseChain: Chain = {
   },
   contracts: {
     multicall3: {
-      address: '0xcA11bde05977b3631167028862bE2a173976CA11',
-      blockCreated: 4_565_593,
+      address: '0xd6A07b8065f9e8386A9a5bBA6A754a10A9CD1074',
+      blockCreated: 22174153,
     },
   },
 }
